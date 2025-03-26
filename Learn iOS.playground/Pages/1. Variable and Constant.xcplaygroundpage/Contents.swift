@@ -2,7 +2,7 @@
 
 import Foundation
 
-/// let : is a type constant that cannot declare again
+/// let : is a type constant that cannot change the existing value again
 /// var : you can change value of an existing variable
 
 var name: String = "John"
